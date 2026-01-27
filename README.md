@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/arunsingh470672" target="blank"><img src="https://img.shields.io/twitter/follow/arunsingh470672?logo=twitter&style=for-the-badge" alt="arunsingh470672" /></a> </p>
 
-- 🔭 I’m currently working on [Data wiping](https://github.com/Arun12-sketch/DataWipe-across-the-platform)
+- 🔭 I’m currently working on [Smartpay]([(https://github.com/Arun12-sketch/auto-pay)])
 
 - 🌱 I’m currently learning **WEB03**
 
