@@ -15,7 +15,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1OTHEIKZFF-l069H5e1DOjwJSPGoKmf1U/view?usp=drive_link](https://drive.google.com/file/d/1OTHEIKZFF-l069H5e1DOjwJSPGoKmf1U/view?usp=drive_link)
 
-- ⚡ Fun fact **My code runs on coffee, curiosity, and occasional debugging panic**
+- ⚡  **My code runs on coffee, curiosity, and occasional debugging panic**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
